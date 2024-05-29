@@ -1,0 +1,267 @@
+﻿<!--
+Au<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+    <link rel="shortcut icon" href="~/Areas/User/Content/images/logo1_r65_icon.ico">
+    <title>Bất Động Sản | Trang tìm kiếm Bất Động Sản Tốt Nhất Tại Tp.Hồ Chí Minh</title>
+    <link href="~/Areas/User/Content/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+    <link href="~/Areas/User/Content/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="CVR Bất Động Sản | Trang tìm kiếm Bất Động Sản tốt nhất miền Nam" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <link href='http://fonts.googleapis.com/css?family=Exo+2:400,900italic,900,800italic,800,700italic,700,600italic,600,500italic,500,400italic,300italic,300,200italic,200' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <script src="~/Areas/User/Content/js/jquery-1.11.1.min.js"></script>
+    <script src="~/Areas/User/Content/js/responsiveslides.min.js"></script>
+    <script>
+        $(function () {
+            $("#slider").responsiveSlides({
+                auto: true,
+                nav: true,
+                speed: 500,
+                namespace: "callbacks",
+                pager: true,
+            });
+        });
+    </script>
+    <!---- start-smoth-scrolling---->
+    <script type="text/javascript" src="~/Areas/User/Content/js/move-top.js"></script>
+    <script type="text/javascript" src="~/Areas/User/Content/js/easing.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+                $('html,body').animate({ scrollTop: $(this.hash).offset().top }, 1200);
+            });
+        });
+    </script>
+    <!---End-smoth-scrolling---->
+    <link rel="stylesheet" href="~/Areas/User/Content/css/swipebox.css">
+    <script src="~/Areas/User/Content/js/jquery.swipebox.min.js"></script>
+    <script type="text/javascript">
+        jQuery(function ($) {
+            $(".swipebox").swipebox();
+        });
+    </script>
+
+    <!--Slider-->
+
+    <link href=" ~/Areas/User/Content/slider/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link href=" ~/Areas/User/Content/slider/css/slider.css" rel="stylesheet" type="text/css" media="all" />
+    <script type="text/javascript" src=" ~/Areas/User/Content/slider/js/jquery-1.9.0.min.js"></script>
+    <script type="text/javascript" src=" ~/Areas/User/Content/slider/js/jquery.nivo.slider.js"></script>
+    <script type="text/javascript">
+        $(window).load(function () {
+            $('#slider').nivoSlider();
+        });
+    </script>
+    <style>
+        .search {
+            border-radius: 30px;
+        }
+
+        .button, .button1 {
+            border-radius: 30px;
+        }
+    </style>
+    <!--Map-->
+    <style>
+        #map {
+            width: 100%;
+            height: 400px;
+            background-color: grey;
+        }
+    </style>
+    <!--Login-->
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <div class="header-top">
+                <div class="top-menu">
+                    <span class="menu"><img src="~/Areas/User/Content/images/nav.png" alt="" /> </span>
+                        <ul>
+                            <li><a href="/User/User/Index" class="active">trang chủ</a></li>
+                            <li><a href="/User/User/NhanVien">giới thiệu</a></li>
+                            <li><a href="/User/BatDongSan/BatDongSan">dịch vụ</a> </li>
+                            <li><a href="/User/BatDongSan/Create">Ký gửi</a></li>
+                            <li><a href="/User/User/LienHe">liên hệ</a></li>
+                            <li style="border:solid 1px;">
+                            @*<a href="/User/DatThue/DatThue"> @Html.Action("SLDaDat", "DatThue")</a>*@
+                            </li>
+                        </ul>
+                        <!-- script for menu -->
+
+                        <script>
+                            $("span.menu").click(function () {
+                                $(".top-menu ul").slideToggle("slow", function () {
+                                });
+                            });
+                        </script>
+                        <!-- //script for menu -->
+
+                </div>
+                <div class="buttons">
+                    @if (Session["UserName"] != null)
+                    {
+                        <a href="/User/User/Account" class="button">
+                           Hi, @Session["HoTen"].ToString()
+                        </a>
+                    }
+                    else
+                    {
+                    <a href="/User/User/Login" class="button">đăng nhập</a>
+                    <a href="/Admin/Login/Login" class="button">đăng nhập QTV</a>
+                    }
+                    @if (Session["UserName"] != null)
+                    {
+                    <a href="/User/User/Logout" class="button">Thoát</a>
+                    }
+
+                    else
+                    {
+                        <a href="/User/User/Create" class="button">đăng ký</a>
+                    }
+
+
+                </div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="header-bottom">
+                <div class="logo">
+                    <a href="/User/User/Index">
+                        <img src="~/Areas/User/Content/images/logo1.png" alt=" Công ty Bất Động Sản "/>
+                    </a>
+                </div>
+                <div class="search">
+                    @using (Html.BeginForm("KetQuaTimKiem", "TimKiem", FormMethod.Post))
+                    {
+                            <form>
+                            @Html.TextBox("txtTimKiem", "", htmlAttributes: new { @style = "width:200px;", @placeholder = "Dự án..." })
+                                <input type="submit" value="">
+                            </form>
+                    }
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+
+            <div class="slider">
+                <div class="slider-wrapper theme-default">
+                    <div id="slider" class="nivoSlider">
+                        <img src=" ~/Areas/User/Content/slider/images/banner1.jpg" data-thumb="images/1.jpg" alt="" />
+                        <img src=" ~/Areas/User/Content/slider/images/banner2.jpg" data-thumb="images/2.jpg" alt="" />
+                        <img src=" ~/Areas/User/Content/slider/images/banner3.jpg" data-thumb="images/3.jpg" alt="" />
+                        <img src=" ~/Areas/User/Content/slider/images/banner4.jpg" data-thumb="images/4.jpg" alt="" />
+                        <img src=" ~/Areas/User/Content/slider/images/banner5.jpg" data-thumb="images/5.jpg" alt="" />
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+    <div class="content">
+        <div class="join">
+            <div class="container">
+                <div class="col-md-2 join-grid">
+                    <a class="button" href="/User/User/Create">đăng ký</a>
+                </div>
+                <div class="col-md-10 join-grid1">
+                    <p>Và trở thành khách hàng thân thiết của chúng tôi</p>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <div class="services-section">
+            <div class="container">
+                @*<h3>dịch vụ</h3>*@
+                <div class="services-grids">
+                    <div class="col-md-3 services-grid">
+                        <img src="~/Areas/User/Content/images/service-1.png" class="img-responsive" alt="">
+                        <a href="/User/BatDongSan/BatDongSanBan" class="button4"> <h4>Đang bán</h4></a>
+                        <p></p>
+                    </div>
+                    <div class="col-md-3 services-grid">
+                        <img src="~/Areas/User/Content/images/service-4.png" class="img-responsive" alt="">
+
+                        <a href="/User/BatDongSan/BatDongSanChoThue" class="button4"><h4>đang cho thuê</h4></a>
+                        <p></p>
+                    </div>
+                    <div class="col-md-3 services-grid">
+                        <img src="~/Areas/User/Content/images/service-5.png" class="img-responsive" alt="">
+                        <a href="/User/BatDongSan/Create" class="button4"><h4>mua bán nhà</h4></a>
+                        <p></p>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="Features-section">
+            <div class="container">
+            @RenderBody()   
+            </div>
+
+        <div class="Resources-section">
+            <div class="container">
+                <div class="col-md-3 Resources">
+                    <h3>Giới thiệu</h3>
+                    <p>
+                        Chúng tôi chuyên cung cấp các dịch vụ bất động sản chuyên nghiệp ở Thành phố Hồ chí Minh. Chúng tôi tập trung vào bất động sản tại thành phố và khu vực lân cận tp.HCM.
+                        Cho dù bạn quan tâm đến việc mua, bán, dịch vụ tư vấn, đầu tư hoặc bất cứ việc gì khác liên quan đến bất động sản và thị trường bất động sản ở TP.HCM– hãy liên hệ với chúng tôi!
+                    </p>
+                </div>
+                <div class="col-md-3 Resources">
+                    <h3>Bản đồ</h3>
+                    @* <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d501726.46045836445!2d106.41502891118768!3d10.754666394443353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529292e8d3dd1%3A0xf15f5aad773c112b!2zSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1573446350702!5m2!1svi!2s" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe> *@
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.5500945116673!2d106.79159707451807!3d10.845701257913188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317527158a0a5b81%3A0xf45c5d34ac580517!2zUGjDom4gaGnhu4d1IFRyxrDhu51uZyDEkOG6oWkgaOG7jWMgR1RWVCB04bqhaSBUcC4gSOG7kyBDaMOtIE1pbmg!5e0!3m2!1svi!2s!4v1702798807756!5m2!1svi!2s" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                </div>
+
+                <div class="col-md-3 Resources">
+                    <h3>Thông tin liên hệ!</h3>
+
+                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Futc2hcmc%2Fposts%2Fpfbid02NEHgf8JwCxjwtfCYBKaBwYixnCRCCY1PJ7AVdgvBk1VYgLcFuWAGSnaGZ2dmVNq7l&show_text=true&width=500" width="400" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+                </div>
+
+                <div class="clearfix"></div>
+            </div>
+            </div>
+    </div>
+    <div class="footer-section">
+        <div class="container">
+            <div class="footer-top">
+                <p> <a href="/Admin/Login/Index" target="_blank">CÔNG DUY GROUP</a> <a href="#" target="_blank"></a></p><br />
+                <p>SDT Liên Hệ: 0332813815</p>
+            </div>
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    /*
+                    var defaults = {
+                            containerID: 'toTop', // fading element id
+                        containerHoverID: 'toTopHover', // fading element hover id
+                        scrollSpeed: 1200,
+                        easingType: 'linear'
+                        };
+                    */
+
+                    $().UItoTop({ easingType: 'easeOutQuart' });
+
+                });
+            </script>
+            <a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+
+
+        </div>
+    </div>
+
+
+</body>
+</html>

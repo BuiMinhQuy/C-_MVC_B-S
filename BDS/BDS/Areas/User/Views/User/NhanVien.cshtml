@@ -1,0 +1,54 @@
+﻿@using PagedList.Mvc;
+@model PagedList.IPagedList<AFModels.NhanVien>
+@{
+    /**/
+
+    ViewBag.Title = "NhanVien";
+    Layout = "~/Areas/User/Views/Shared/_UserAbout.cshtml";
+}
+
+<div class="content">
+    <div class="about us">
+        <div class="container">
+            <h3>về chúng tôi</h3>
+            <div class="about-grids">
+                <div class="col-md-7 about-grid1">
+                    <h4>Chúng tôi chuyên cung cấp các dịch vụ bất động sản ở TP.Hồ Chí Minh </h4>
+                    <p>
+                        Chúng tôi là công ty bất động sản chuyên cung cấp các dịch vụ mua bán, tư vấn và đầu tư bất động sản tại Thành phố Hồ Chí Minh. Chúng tôi có đội ngũ chuyên gia giàu kinh nghiệm và kiến thức về thị trường địa phương, luôn sẵn sàng giúp bạn tìm thấy bất động sản phù hợp với nhu cầu và ngân sách của mình.
+
+                        Chúng tôi cam kết cung cấp cho khách hàng những dịch vụ chất lượng cao, bao gồm:
+
+                        Tư vấn miễn phí về thị trường bất động sản
+                        Hỗ trợ tìm kiếm và đàm phán giá cả
+                        Cung cấp các giải pháp tài chính phù hợp
+                        Dịch vụ pháp lý chuyên nghiệp
+                        Với sự hỗ trợ của chúng tôi, bạn có thể tự tin thực hiện các giao dịch bất động sản thành công.
+                    </p>
+                </div>
+                <div class="col-md-5 about-grid">
+                    <img src="~/Areas/User/Content/images/p7.jpg" class="img-responsive" alt="Photo" />
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+    <div class="ourteam">
+        <div class="container">
+            <h3>Chúng tôi gồm:</h3>
+            <div class="team-grids">
+
+                @foreach (var item in Model)
+                {
+                <div class="col-md-3 team-grid">
+                    <h5>@item.HoTenNV</h5>
+                    <p>@item.ChucVu</p>
+                    <p>Điện thoại: @item.DienThoai</p>
+                    <p><a href="@item.Facebook" target="_blank">Facebook</a> </p>
+                    <p>@item.Email</p>
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

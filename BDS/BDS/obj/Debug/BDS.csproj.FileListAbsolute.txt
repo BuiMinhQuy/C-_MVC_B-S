@@ -1,0 +1,861 @@
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.IO.FileSystem.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Reflection.Metadata.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.ValueTuple.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\VBCSCompiler.exe
+E:\BackUp DACN\BDS\BDS\bin\ApplicationInsights.config
+E:\BackUp DACN\BDS\BDS\bin\BDS.dll.config
+E:\BackUp DACN\BDS\BDS\bin\BDS.dll
+E:\BackUp DACN\BDS\BDS\bin\BDS.pdb
+E:\BackUp DACN\BDS\BDS\bin\roslyn\csc.exe
+E:\BackUp DACN\BDS\BDS\bin\roslyn\csc.exe.config
+E:\BackUp DACN\BDS\BDS\bin\roslyn\csc.rsp
+E:\BackUp DACN\BDS\BDS\bin\roslyn\csi.exe
+E:\BackUp DACN\BDS\BDS\bin\roslyn\csi.exe.config
+E:\BackUp DACN\BDS\BDS\bin\roslyn\csi.rsp
+E:\BackUp DACN\BDS\BDS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BackUp DACN\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BackUp DACN\BDS\BDS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.AppContext.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Collections.Immutable.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Console.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Diagnostics.Process.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.IO.Compression.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.IO.FileSystem.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.IO.Pipes.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Reflection.Metadata.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Security.AccessControl.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Security.Claims.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Security.Principal.Windows.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Threading.Thread.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.ValueTuple.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Xml.XPath.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BackUp DACN\BDS\BDS\bin\roslyn\vbc.exe
+E:\BackUp DACN\BDS\BDS\bin\roslyn\vbc.exe.config
+E:\BackUp DACN\BDS\BDS\bin\roslyn\vbc.rsp
+E:\BackUp DACN\BDS\BDS\bin\roslyn\VBCSCompiler.exe
+E:\BackUp DACN\BDS\BDS\bin\roslyn\VBCSCompiler.exe.config
+E:\BackUp DACN\BDS\BDS\bin\AFModels.dll
+E:\BackUp DACN\BDS\BDS\bin\Antlr3.Runtime.dll
+E:\BackUp DACN\BDS\BDS\bin\EntityFramework.dll
+E:\BackUp DACN\BDS\BDS\bin\EntityFramework.SqlServer.dll
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.AI.DependencyCollector.dll
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.AI.Web.dll
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.AI.WindowsServer.dll
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.ApplicationInsights.dll
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.Web.Infrastructure.dll
+E:\BackUp DACN\BDS\BDS\bin\Newtonsoft.Json.dll
+E:\BackUp DACN\BDS\BDS\bin\PagedList.dll
+E:\BackUp DACN\BDS\BDS\bin\PagedList.Mvc.dll
+E:\BackUp DACN\BDS\BDS\bin\System.Web.Helpers.dll
+E:\BackUp DACN\BDS\BDS\bin\System.Web.Mvc.dll
+E:\BackUp DACN\BDS\BDS\bin\System.Web.Optimization.dll
+E:\BackUp DACN\BDS\BDS\bin\System.Web.Razor.dll
+E:\BackUp DACN\BDS\BDS\bin\System.Web.WebPages.Deployment.dll
+E:\BackUp DACN\BDS\BDS\bin\System.Web.WebPages.dll
+E:\BackUp DACN\BDS\BDS\bin\System.Web.WebPages.Razor.dll
+E:\BackUp DACN\BDS\BDS\bin\WebGrease.dll
+E:\BackUp DACN\BDS\BDS\bin\AFModels.pdb
+E:\BackUp DACN\BDS\BDS\bin\AFModels.dll.config
+E:\BackUp DACN\BDS\BDS\bin\EntityFramework.xml
+E:\BackUp DACN\BDS\BDS\bin\EntityFramework.SqlServer.xml
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BackUp DACN\BDS\BDS\bin\PagedList.xml
+E:\BackUp DACN\BDS\BDS\bin\PagedList.Mvc.xml
+E:\BackUp DACN\BDS\BDS\bin\System.Web.Helpers.xml
+E:\BackUp DACN\BDS\BDS\bin\System.Web.Mvc.xml
+E:\BackUp DACN\BDS\BDS\bin\System.Web.Optimization.xml
+E:\BackUp DACN\BDS\BDS\bin\System.Web.Razor.xml
+E:\BackUp DACN\BDS\BDS\bin\System.Web.WebPages.xml
+E:\BackUp DACN\BDS\BDS\bin\System.Web.WebPages.Deployment.xml
+E:\BackUp DACN\BDS\BDS\bin\System.Web.WebPages.Razor.xml
+E:\BackUp DACN\BDS\BDS\bin\Antlr3.Runtime.pdb
+E:\BackUp DACN\BDS\BDS\bin\Newtonsoft.Json.xml
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.ApplicationInsights.xml
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.AI.DependencyCollector.xml
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.AI.WindowsServer.xml
+E:\BackUp DACN\BDS\BDS\bin\Microsoft.AI.Web.xml
+E:\BackUp DACN\BDS\BDS\obj\Debug\BDS.csprojResolveAssemblyReference.cache
+E:\BackUp DACN\BDS\BDS\obj\Debug\BDS.csproj.CoreCompileInputs.cache
+E:\BackUp DACN\BDS\BDS\obj\Debug\BDS.csproj.CopyComplete
+E:\BackUp DACN\BDS\BDS\obj\Debug\BDS.dll
+E:\BackUp DACN\BDS\BDS\obj\Debug\BDS.pdb
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\ApplicationInsights.config
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\BDS.dll.config
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\BDS.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\BDS.pdb
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\csc.exe
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\csc.exe.config
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\csc.rsp
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\csi.exe
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\csi.exe.config
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\csi.rsp
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.AppContext.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Collections.Immutable.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Console.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Diagnostics.Process.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.IO.Compression.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.IO.Pipes.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Security.AccessControl.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Security.Claims.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Threading.Thread.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Xml.XPath.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\vbc.exe
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\vbc.exe.config
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\vbc.rsp
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\roslyn\VBCSCompiler.exe.config
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\AFModels.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Antlr3.Runtime.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\EntityFramework.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\EntityFramework.SqlServer.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.AI.DependencyCollector.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.AI.Web.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.AI.WindowsServer.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.ApplicationInsights.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.Web.Infrastructure.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Newtonsoft.Json.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\PagedList.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\PagedList.Mvc.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.Helpers.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.Mvc.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.Optimization.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.Razor.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.WebPages.Deployment.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.WebPages.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.WebPages.Razor.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\WebGrease.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\AFModels.pdb
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\AFModels.dll.config
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\EntityFramework.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\EntityFramework.SqlServer.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\PagedList.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\PagedList.Mvc.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.Helpers.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.Mvc.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.Optimization.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.Razor.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.WebPages.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.WebPages.Deployment.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\System.Web.WebPages.Razor.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Antlr3.Runtime.pdb
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Newtonsoft.Json.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.ApplicationInsights.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.AI.DependencyCollector.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.AI.WindowsServer.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Microsoft.AI.Web.xml
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\obj\Debug\BDS.csprojResolveAssemblyReference.cache
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\obj\Debug\BDS.csproj.CoreCompileInputs.cache
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\obj\Debug\BDS.csproj.CopyComplete
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\obj\Debug\BDS.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\obj\Debug\BDS.pdb
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\CKFinder.dll
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\CKFinder.pdb
+E:\ĐỒ ÁN CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN 2018\BDS\BDS\bin\Rotativa.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\ApplicationInsights.config
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\BDS.dll.config
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\BDS.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\BDS.pdb
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\csc.exe
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\csc.exe.config
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\csc.rsp
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\csi.exe
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\csi.exe.config
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\csi.rsp
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.AppContext.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Collections.Immutable.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Console.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Diagnostics.Process.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.IO.Compression.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.IO.FileSystem.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.IO.Pipes.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Reflection.Metadata.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Security.AccessControl.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Security.Claims.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Threading.Thread.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.ValueTuple.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Xml.XPath.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\vbc.exe
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\vbc.exe.config
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\vbc.rsp
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\VBCSCompiler.exe
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\roslyn\VBCSCompiler.exe.config
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\AFModels.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Antlr3.Runtime.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\CKFinder.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\EntityFramework.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\EntityFramework.SqlServer.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.AI.DependencyCollector.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.AI.Web.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.AI.WindowsServer.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.ApplicationInsights.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.Web.Infrastructure.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Newtonsoft.Json.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\PagedList.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\PagedList.Mvc.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Rotativa.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.Helpers.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.Mvc.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.Optimization.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.Razor.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.WebPages.Deployment.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.WebPages.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.WebPages.Razor.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\WebGrease.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\AFModels.pdb
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\AFModels.dll.config
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\CKFinder.pdb
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\EntityFramework.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\EntityFramework.SqlServer.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\PagedList.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\PagedList.Mvc.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.Helpers.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.Mvc.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.Optimization.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.Razor.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.WebPages.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.WebPages.Deployment.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\System.Web.WebPages.Razor.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Antlr3.Runtime.pdb
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Newtonsoft.Json.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.ApplicationInsights.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.AI.DependencyCollector.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.AI.WindowsServer.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\Microsoft.AI.Web.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\obj\Debug\BDS.csprojAssemblyReference.cache
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\obj\Debug\BDS.csproj.CoreCompileInputs.cache
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\obj\Debug\BDS.csproj.CopyComplete
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\obj\Debug\BDS.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\obj\Debug\BDS.pdb
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\AntiXssLibrary.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\HtmlSanitizationLibrary.dll
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\AntiXssLibrary.xml
+D:\BDS_KimHuynh\WebBDS\kimhuynh\VOHUUHAI-151250533116\BDS\BDS\bin\HtmlSanitizationLibrary.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\ApplicationInsights.config
+D:\BDS_KimHuynh\BDS\BDS\bin\BDS.dll.config
+D:\BDS_KimHuynh\BDS\BDS\bin\BDS.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\BDS.pdb
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\csc.exe
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\csc.exe.config
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\csc.rsp
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\csi.exe
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\csi.exe.config
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\csi.rsp
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.AppContext.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Collections.Immutable.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Console.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Diagnostics.Process.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.IO.Compression.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.IO.FileSystem.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.IO.Pipes.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Reflection.Metadata.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.AccessControl.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.Claims.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Threading.Thread.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.ValueTuple.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Xml.XPath.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\vbc.exe
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\vbc.exe.config
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\vbc.rsp
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\VBCSCompiler.exe
+D:\BDS_KimHuynh\BDS\BDS\bin\roslyn\VBCSCompiler.exe.config
+D:\BDS_KimHuynh\BDS\BDS\bin\AFModels.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\AntiXssLibrary.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\Antlr3.Runtime.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\CKFinder.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\EntityFramework.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\EntityFramework.SqlServer.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\HtmlSanitizationLibrary.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.DependencyCollector.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.Web.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.WindowsServer.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.ApplicationInsights.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.Web.Infrastructure.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\Newtonsoft.Json.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\PagedList.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\PagedList.Mvc.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\Rotativa.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.Helpers.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.Mvc.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.Optimization.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.Razor.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.WebPages.Deployment.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.WebPages.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.WebPages.Razor.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\WebGrease.dll
+D:\BDS_KimHuynh\BDS\BDS\bin\AFModels.pdb
+D:\BDS_KimHuynh\BDS\BDS\bin\AFModels.dll.config
+D:\BDS_KimHuynh\BDS\BDS\bin\AntiXssLibrary.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\CKFinder.pdb
+D:\BDS_KimHuynh\BDS\BDS\bin\EntityFramework.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\EntityFramework.SqlServer.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\HtmlSanitizationLibrary.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\PagedList.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\PagedList.Mvc.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.Helpers.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.Mvc.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.Optimization.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.Razor.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.WebPages.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.WebPages.Deployment.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\System.Web.WebPages.Razor.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\Antlr3.Runtime.pdb
+D:\BDS_KimHuynh\BDS\BDS\bin\Newtonsoft.Json.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.ApplicationInsights.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.DependencyCollector.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.WindowsServer.xml
+D:\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.Web.xml
+D:\BDS_KimHuynh\BDS\BDS\obj\Debug\BDS.csprojAssemblyReference.cache
+D:\BDS_KimHuynh\BDS\BDS\obj\Debug\BDS.csproj.CoreCompileInputs.cache
+D:\BDS_KimHuynh\BDS\BDS\obj\Debug\BDS.csproj.CopyComplete
+D:\BDS_KimHuynh\BDS\BDS\obj\Debug\BDS.dll
+D:\BDS_KimHuynh\BDS\BDS\obj\Debug\BDS.pdb
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\ApplicationInsights.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\BDS.dll.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\BDS.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\BDS.pdb
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\csc.exe
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\csc.exe.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\csc.rsp
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\csi.exe
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\csi.exe.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\csi.rsp
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.AppContext.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Collections.Immutable.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Console.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Diagnostics.Process.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.IO.Compression.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.IO.FileSystem.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.IO.Pipes.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Reflection.Metadata.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.AccessControl.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.Claims.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Security.Principal.Windows.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Threading.Thread.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.ValueTuple.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Xml.XPath.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\vbc.exe
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\vbc.exe.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\vbc.rsp
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\VBCSCompiler.exe
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\roslyn\VBCSCompiler.exe.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\AFModels.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\AntiXssLibrary.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Antlr3.Runtime.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\CKFinder.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\EntityFramework.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\EntityFramework.SqlServer.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\HtmlSanitizationLibrary.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.DependencyCollector.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.Web.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.WindowsServer.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.ApplicationInsights.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.Web.Infrastructure.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Newtonsoft.Json.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\PagedList.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\PagedList.Mvc.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Rotativa.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.Helpers.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.Mvc.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.Optimization.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.Razor.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.WebPages.Deployment.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.WebPages.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.WebPages.Razor.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\WebGrease.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\AFModels.pdb
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\AFModels.dll.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\AntiXssLibrary.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\CKFinder.pdb
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\EntityFramework.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\EntityFramework.SqlServer.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\HtmlSanitizationLibrary.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\PagedList.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\PagedList.Mvc.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.Helpers.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.Mvc.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.Optimization.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.Razor.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.WebPages.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.WebPages.Deployment.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\System.Web.WebPages.Razor.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Antlr3.Runtime.pdb
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Newtonsoft.Json.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.ApplicationInsights.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.DependencyCollector.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.WindowsServer.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\bin\Microsoft.AI.Web.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\obj\Debug\BDS.csproj.AssemblyReference.cache
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\obj\Debug\BDS.csproj.CoreCompileInputs.cache
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\obj\Debug\BDS.csproj.CopyComplete
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\obj\Debug\BDS.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\BDS_KimHuynh\BDS\BDS\obj\Debug\BDS.pdb
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\ApplicationInsights.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\BDS.dll.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\BDS.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\BDS.pdb
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\csc.exe
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\csc.exe.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\csc.rsp
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\csi.exe
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\csi.exe.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\csi.rsp
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.AppContext.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Collections.Immutable.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Console.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Diagnostics.Process.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.IO.Compression.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.IO.FileSystem.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.IO.Pipes.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Reflection.Metadata.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Security.AccessControl.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Security.Claims.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Security.Principal.Windows.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Threading.Thread.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.ValueTuple.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Xml.XPath.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\vbc.exe
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\vbc.exe.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\vbc.rsp
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\VBCSCompiler.exe
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\roslyn\VBCSCompiler.exe.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\AFModels.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\AntiXssLibrary.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Antlr3.Runtime.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\CKFinder.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\EntityFramework.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\EntityFramework.SqlServer.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\HtmlSanitizationLibrary.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.AI.DependencyCollector.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.AI.Web.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.AI.WindowsServer.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.ApplicationInsights.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.Web.Infrastructure.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Newtonsoft.Json.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\PagedList.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\PagedList.Mvc.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Rotativa.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.Helpers.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.Mvc.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.Optimization.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.Razor.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.WebPages.Deployment.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.WebPages.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.WebPages.Razor.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\WebGrease.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\AFModels.pdb
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\AFModels.dll.config
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\AntiXssLibrary.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\CKFinder.pdb
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\EntityFramework.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\EntityFramework.SqlServer.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\HtmlSanitizationLibrary.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\PagedList.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\PagedList.Mvc.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.Helpers.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.Mvc.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.Optimization.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.Razor.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.WebPages.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.WebPages.Deployment.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\System.Web.WebPages.Razor.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Antlr3.Runtime.pdb
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Newtonsoft.Json.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.ApplicationInsights.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.AI.DependencyCollector.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.AI.WindowsServer.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\bin\Microsoft.AI.Web.xml
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\obj\Debug\BDS.csproj.AssemblyReference.cache
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\obj\Debug\BDS.csproj.CoreCompileInputs.cache
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\obj\Debug\BDS.csproj.CopyComplete
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\obj\Debug\BDS.dll
+D:\_utc2\hocki1-nam3\bai-tap-lon\code-mau\btl-test\BDS\BDS\obj\Debug\BDS.pdb
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\ApplicationInsights.config
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\BDS.dll.config
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\BDS.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\BDS.pdb
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\csc.exe
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\csc.exe.config
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\csc.rsp
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\csi.exe
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\csi.exe.config
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\csi.rsp
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.AppContext.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Collections.Immutable.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Console.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Diagnostics.Process.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.IO.Compression.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.IO.FileSystem.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.IO.Pipes.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Reflection.Metadata.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Security.AccessControl.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Security.Claims.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Security.Principal.Windows.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Threading.Thread.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.ValueTuple.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Xml.XPath.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\vbc.exe
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\vbc.exe.config
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\vbc.rsp
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\VBCSCompiler.exe
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\roslyn\VBCSCompiler.exe.config
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\AFModels.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\AntiXssLibrary.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Antlr3.Runtime.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\CKFinder.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\EntityFramework.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\EntityFramework.SqlServer.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\HtmlSanitizationLibrary.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.AI.DependencyCollector.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.AI.Web.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.AI.WindowsServer.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.ApplicationInsights.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.Web.Infrastructure.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Newtonsoft.Json.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\PagedList.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\PagedList.Mvc.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Rotativa.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.Helpers.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.Mvc.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.Optimization.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.Razor.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.WebPages.Deployment.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.WebPages.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.WebPages.Razor.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\WebGrease.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\AFModels.pdb
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\AFModels.dll.config
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\AntiXssLibrary.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\CKFinder.pdb
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\EntityFramework.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\EntityFramework.SqlServer.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\HtmlSanitizationLibrary.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\PagedList.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\PagedList.Mvc.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.Helpers.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.Mvc.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.Optimization.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.Razor.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.WebPages.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.WebPages.Deployment.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\System.Web.WebPages.Razor.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Antlr3.Runtime.pdb
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Newtonsoft.Json.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.ApplicationInsights.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.AI.DependencyCollector.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.AI.WindowsServer.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\bin\Microsoft.AI.Web.xml
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\obj\Debug\BDS.csproj.AssemblyReference.cache
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\obj\Debug\BDS.csproj.CoreCompileInputs.cache
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\obj\Debug\BDS.csproj.CopyComplete
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\obj\Debug\BDS.dll
+D:\UTC2 _ University\Code\C#_Web_MVC\BDS\BDS\BDS\obj\Debug\BDS.pdb
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\ApplicationInsights.config
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\BDS.dll.config
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\BDS.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\BDS.pdb
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\csc.exe
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\csc.exe.config
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\csc.rsp
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\csi.exe
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\csi.exe.config
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\csi.rsp
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.AppContext.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Collections.Immutable.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Console.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Diagnostics.Process.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.IO.Compression.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.IO.FileSystem.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.IO.Pipes.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Security.AccessControl.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Security.Claims.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Threading.Thread.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.ValueTuple.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Xml.XPath.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\vbc.exe
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\vbc.exe.config
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\vbc.rsp
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\VBCSCompiler.exe
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\roslyn\VBCSCompiler.exe.config
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\AFModels.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\AntiXssLibrary.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Antlr3.Runtime.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\CKFinder.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\EntityFramework.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\EntityFramework.SqlServer.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\HtmlSanitizationLibrary.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.AI.DependencyCollector.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.AI.Web.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.AI.WindowsServer.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.ApplicationInsights.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.Web.Infrastructure.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Newtonsoft.Json.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\PagedList.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\PagedList.Mvc.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Rotativa.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.Helpers.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.Mvc.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.Optimization.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.Razor.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.WebPages.Deployment.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.WebPages.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.WebPages.Razor.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\WebGrease.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\AFModels.pdb
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\AFModels.dll.config
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\AntiXssLibrary.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\CKFinder.pdb
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\EntityFramework.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\EntityFramework.SqlServer.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\HtmlSanitizationLibrary.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\PagedList.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\PagedList.Mvc.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.Helpers.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.Mvc.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.Optimization.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.Razor.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.WebPages.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.WebPages.Deployment.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\System.Web.WebPages.Razor.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Antlr3.Runtime.pdb
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Newtonsoft.Json.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.ApplicationInsights.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.AI.DependencyCollector.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.AI.WindowsServer.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\bin\Microsoft.AI.Web.xml
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\obj\Debug\BDS.csproj.AssemblyReference.cache
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\obj\Debug\BDS.csproj.CoreCompileInputs.cache
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\obj\Debug\BDS.csproj.Up2Date
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\obj\Debug\BDS.dll
+D:\Dowload File\Downloads\Zalo Dowloads File\BDS\BDS\BDS\BDS\obj\Debug\BDS.pdb

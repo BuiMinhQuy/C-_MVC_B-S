@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dowload File\\Downloads\\Zalo Dowloads File\\BDS\\BDS\\BDS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|d:\\dowload file\\downloads\\zalo dowloads file\\bds\\bds\\bds\\bds\\areas\\admin\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\areas\\admin\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|d:\\dowload file\\downloads\\zalo dowloads file\\bds\\bds\\bds\\bds\\areas\\admin\\controllers\\batdongsancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF242D-4FCE-40B0-9B8A-C6CD57D89766}|BDS\\BDS.csproj|solutionrelative:bds\\areas\\admin\\controllers\\batdongsancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Dowload File\\Downloads\\Zalo Dowloads File\\BDS\\BDS\\BDS\\BDS\\Areas\\Admin\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "BDS\\Areas\\Admin\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Dowload File\\Downloads\\Zalo Dowloads File\\BDS\\BDS\\BDS\\BDS\\Areas\\Admin\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "BDS\\Areas\\Admin\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:54:10.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BatDongSanController.cs",
+              "DocumentMoniker": "D:\\Dowload File\\Downloads\\Zalo Dowloads File\\BDS\\BDS\\BDS\\BDS\\Areas\\Admin\\Controllers\\BatDongSanController.cs",
+              "RelativeDocumentMoniker": "BDS\\Areas\\Admin\\Controllers\\BatDongSanController.cs",
+              "ToolTip": "D:\\Dowload File\\Downloads\\Zalo Dowloads File\\BDS\\BDS\\BDS\\BDS\\Areas\\Admin\\Controllers\\BatDongSanController.cs",
+              "RelativeToolTip": "BDS\\Areas\\Admin\\Controllers\\BatDongSanController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T01:54:08.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
